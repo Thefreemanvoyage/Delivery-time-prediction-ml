@@ -56,10 +56,8 @@ The interaction feature distance_x_prep became the most important predictor in t
 
 # Models Evaluated
 
-Model	MAE
-Baseline (Mean Prediction)	7.63
-Linear Regression	3.64
-Gradient Boosting	3.36
+<img width="1362" height="705" alt="image" src="https://github.com/user-attachments/assets/15700e7b-fb4d-4c5c-82c7-87956126daee" />
+
 
 # Final Model
 
